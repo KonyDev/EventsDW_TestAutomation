@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_e4e693e27dcc4ab2b5e5c8dc7dc593eb": {
+        "id": "AS_AppEvents_e4e693e27dcc4ab2b5e5c8dc7dc593eb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__eb992b139f7642d49c6d613285b8c7e2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.setApplicationBehaviors( {FormControllerSyncLoad : true})",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sd52f575a8c744fe9280c7e6010fda6c",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMenuClose",
+    "ide_onClick": "AS_FlexContainer_a4d31c6292514e3e8ca53491392a8737",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bdc5e5435b04460c807d7ba05254db1a",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_a4d31c6292514e3e8ca53491392a8737",
+    "parent": "flxRoot",
+    "pf": "frmAllEvents",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false,
+            "width": {
+                "type": "string",
+                "value": "60%"
+            }
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": "40%"
+            },
+            "width": {
+                "type": "string",
+                "value": "60%"
+            }
+        },
+        "b4": {
+            "isVisible": false,
+            "width": {
+                "type": "string",
+                "value": "35%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

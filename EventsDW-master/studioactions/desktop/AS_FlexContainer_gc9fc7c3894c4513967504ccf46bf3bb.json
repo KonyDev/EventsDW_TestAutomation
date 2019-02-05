@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_gc9fc7c3894c4513967504ccf46bf3bb": {
+        "id": "AS_FlexContainer_gc9fc7c3894c4513967504ccf46bf3bb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageUser",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c1e4413e0f9f481ca90d135fd73067df"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__iee8415eb5af4390bb21e375393312e0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.menuItem.createEvent(this.option1SelectionCallback());",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

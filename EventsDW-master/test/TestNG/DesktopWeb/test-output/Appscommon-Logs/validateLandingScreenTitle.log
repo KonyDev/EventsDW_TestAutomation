@@ -1,0 +1,12 @@
+22.Nov.18 15:14:20.092  INFO   [AppLogger]    EventsBaseTest      **** IN TEST : validateLandingScreenTitle *****                                                            
+22.Nov.18 15:14:20.092  INFO   
+----------------------------------------------------------------------
+
+22.Nov.18 15:14:20.092  INFO   Info Test Method Name = test.Events.tests.AllEvents.validateLandingScreenTitle
+22.Nov.18 15:14:20.092  INFO   
+----------------------------------------------------------------------
+
+22.Nov.18 15:14:20.183  INFO   [AppLogger]    NativeMethodAccessorImplWaiting for an element        frmAllEvents_LblTitle                                       30        true      
+22.Nov.18 15:14:20.229  INFO   [AppLogger]    frmAllEvents        Waiting for an element        frmAllEvents_LblTitle                                       30        true      
+22.Nov.18 15:14:20.274  INFO   [AppLogger]    AppElement          Waiting for an element        frmAllEvents_LblTitle                                       30        true      
+22.Nov.18 15:14:21.327  INFO   [AppLogger]    frmAllEvents        Get text on element           frmAllEvents_LblTitle                                       All Events

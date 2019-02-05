@@ -1,0 +1,24 @@
+{
+    "AS_Form_f76d5d0ba82e4796a6aac9e8f327e43d": {
+        "id": "AS_Form_f76d5d0ba82e4796a6aac9e8f327e43d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAllEvents",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cf1fac0c5aa548d89c9d119620fa7dcd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hf78870171ad497fa13d40054082f026",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.onBreakpointChange = function(eventobject,breakpoint){\n  self.checkBreakpointAndCreateCards(eventobject, breakpoint);\n};",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

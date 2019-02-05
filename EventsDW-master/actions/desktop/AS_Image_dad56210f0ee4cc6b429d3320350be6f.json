@@ -1,0 +1,30 @@
+{
+    "AS_Image_dad56210f0ee4cc6b429d3320350be6f": {
+        "id": "AS_Image_dad56210f0ee4cc6b429d3320350be6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmCreateEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d845c9898428449f914fcb72d79e2e42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a8959f6d91394d8b87d72ef677e977b5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"loggin options\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

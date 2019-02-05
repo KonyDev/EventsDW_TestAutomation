@@ -1,0 +1,32 @@
+{
+  "background_color": "ffffff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "isDefaultSkin": false,
+  "kuid": "sefac88c3466448fa1bfe7dc50213639",
+  "spaan": {
+    "bottom_left_border_color": "ffffffff",
+    "bottom_left_border_style": "plain",
+    "bottom_right_border_color": "ffffffff",
+    "bottom_right_border_style": "plain",
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_left_border_style": "plain",
+    "top_right_border_color": "ffffffff",
+    "top_right_border_style": "plain"
+  },
+  "spaip": {
+    "bottom_left_border_color": "ffffffff",
+    "bottom_left_border_style": "plain",
+    "bottom_right_border_color": "ffffffff",
+    "bottom_right_border_style": "plain",
+    "customCSS": "background-clip: border-box;\nbackground-color: rgba(201, 201, 201, 0.50);     \nbackground-image: url(\"images/loading.gif\");  \nbackground-origin: padding-box;     \nbackground-repeat: no-repeat;     \nbackground-size: auto; \nmargin-left:00%; \nwidth: 100% !important; \nheight: 100% !important;\ntop: 0% !important;\nz-index: 100 !important;\nborder:0px;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_left_border_style": "plain",
+    "top_right_border_color": "ffffffff",
+    "top_right_border_style": "plain"
+  },
+  "wType": "Form"
+}

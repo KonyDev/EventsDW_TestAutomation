@@ -1,0 +1,20 @@
+{
+    "AS_Calendar_feb4edb8166040d2a04edecc815a44fc": {
+        "id": "AS_Calendar_feb4edb8166040d2a04edecc815a44fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_d5b5bcbbce034871915ef02ed6c8ef1a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.calSessionStartDate.skin = \"skncalNormal\";",
+            "callbackType": null
+        }]
+    }
+}

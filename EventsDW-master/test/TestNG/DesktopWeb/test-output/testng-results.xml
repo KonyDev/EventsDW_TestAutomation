@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18445" started-at="2018-11-22T09:44:02Z" finished-at="2018-11-22T09:44:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18445" started-at="2018-11-22T09:44:02Z" finished-at="2018-11-22T09:44:21Z">
+      <class name="test.Events.tests.AllEvents">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.Events.tests.AllEvents@59e5ddf]" name="beforeSuite" is-config="true" duration-ms="547" started-at="2018-11-22T15:14:02Z" finished-at="2018-11-22T15:14:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.Events.tests.AllEvents@59e5ddf]" name="beforeClass" is-config="true" duration-ms="17190" started-at="2018-11-22T15:14:02Z" finished-at="2018-11-22T15:14:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Events]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.verticalapps.Events]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[<launchactivityname>]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.verticalapps.Events]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod([Ljava.lang.Object;, java.lang.reflect.Method)[pri:0, instance:test.Events.tests.AllEvents@59e5ddf]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2018-11-22T15:14:20Z" finished-at="2018-11-22T15:14:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@5733f295]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.Events.tests.AllEvents.validateLandingScreenTitle() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateLandingScreenTitle()[pri:0, instance:test.Events.tests.AllEvents@59e5ddf]" name="validateLandingScreenTitle" duration-ms="1236" started-at="2018-11-22T15:14:20Z" finished-at="2018-11-22T15:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLandingScreenTitle -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.Events.tests.AllEvents@59e5ddf]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-11-22T15:14:21Z" finished-at="2018-11-22T15:14:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateLandingScreenTitle status=SUCCESS method=AllEvents.validateLandingScreenTitle()[pri:0, instance:test.Events.tests.AllEvents@59e5ddf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.Events.tests.AllEvents@59e5ddf]" name="afterSuite" is-config="true" duration-ms="13306" started-at="2018-11-22T15:14:21Z" finished-at="2018-11-22T15:14:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.Events.tests.AllEvents -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

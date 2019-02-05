@@ -1,0 +1,27 @@
+{
+    "AS_Form_fd3de6c9354149ab96133808aa3dc33d": {
+        "id": "AS_Form_fd3de6c9354149ab96133808aa3dc33d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "breakpoint"
+        }],
+        "contextObj": {
+            "name": "frmAllEvents",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cf1fac0c5aa548d89c9d119620fa7dcd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g10f968a57fb449a8d317b2991b9c5c3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.checkBreakpointAndCreateCards(eventobject, breakpoint);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

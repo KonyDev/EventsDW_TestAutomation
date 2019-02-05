@@ -1,0 +1,27 @@
+{
+    "AS_Form_j7cf8c4a78074258b2feb8e0f8e76ba3": {
+        "id": "AS_Form_j7cf8c4a78074258b2feb8e0f8e76ba3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "breakpoint"
+        }],
+        "contextObj": {
+            "name": "frmManageUser",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c1e4413e0f9f481ca90d135fd73067df"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ba62bbcaa08e45fc8506f599d801d23a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.checkBreakpointAndSetUI(breakpoint);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

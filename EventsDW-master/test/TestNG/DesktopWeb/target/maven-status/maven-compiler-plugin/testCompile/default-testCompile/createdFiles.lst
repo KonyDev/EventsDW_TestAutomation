@@ -1,0 +1,7 @@
+com\kony\appiumtests\tests\AllEvents.class
+com\kony\appiumtests\forms\frmManageUser.class
+com\kony\appiumtests\EventsWidgetId.class
+com\kony\appiumtests\EventsBaseTest.class
+com\kony\appiumtests\forms\frmCreateEvent.class
+com\kony\appiumtests\forms\frmLogin.class
+com\kony\appiumtests\forms\frmAllEvents.class

@@ -1,0 +1,238 @@
+{
+    "classname": "menuItem",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "aa5acb2385a64003b7496197657fcb39",
+                    "paramList": [],
+                    "propertyKey": "setSelectedFlex",
+                    "pw": {
+                        "displayName": "setSelectedFlex",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "cb6b6a61905348859cfde59e2094047e",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onAllEventClick",
+                    "pw": {
+                        "displayName": "onAllEventClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ce8ce8e669524f3389ea693fde144eea",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onCreateEventClick",
+                    "pw": {
+                        "displayName": "onCreateEventClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ace5207ac6e948a6815613b4ee0ba48b",
+                    "paramList": [],
+                    "propertyIndex": 3,
+                    "propertyKey": "onManageUserClick",
+                    "pw": {
+                        "displayName": "onManageUserClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "a7d1384b8c8f4dab88ea5415f155eac6",
+                    "paramList": [],
+                    "propertyIndex": 4,
+                    "propertyKey": "onGetNotificationClick",
+                    "pw": {
+                        "displayName": "onGetNotificationClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "hba7bfed4cdd4868a74e7b53a93851d2",
+                    "paramList": [],
+                    "propertyIndex": 5,
+                    "propertyKey": "onGetMyCalendar",
+                    "pw": {
+                        "displayName": "onGetMyCalendar",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "g5c05b12c89248048e17ccab49c1b38d",
+                    "paramList": [],
+                    "propertyIndex": 6,
+                    "propertyKey": "onGetSetting",
+                    "pw": {
+                        "displayName": "onGetSetting",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "d80c910350db4674a1e2aa999d4e87b7",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "bc25dabadb804179acdd65b1effa6c0d",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 1,
+                    "propertyKey": "option1ImageVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "option1Image",
+                        "srcWidget": "imgAllNewEvent",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "ac904b949f104ee59c8b7abae3445b91"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "f6ddf05942044f42bcb36b98bcf36f26",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "option1Text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "option1Text",
+                        "srcWidget": "lblAllEvent",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "f69c846261a94f6e9d82ba4fc285924e"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "id2da540aa4c42d0a684a1c23ba05506",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 3,
+                    "propertyKey": "option2ImageVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "option2Image",
+                        "srcWidget": "imgCreateNewEvent",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "bc7b2134f2be4a81b1c180c57550f841"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "edacd87e24f4451686397729f1fe66ba",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 4,
+                    "propertyKey": "option2Text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "option2Text",
+                        "srcWidget": "lblCreateNewEvent",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "b52fdfc66a90462a9469c206544e7b83"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "be40a29197d24e92b31a93cc649a1769",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 5,
+                    "propertyKey": "option3ImageVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "option3Image",
+                        "srcWidget": "imgManageUser",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "a0a8d5f480f843c7ba8f23a3037666c2"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a29a227d494a4284bf93651362f7859f",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 6,
+                    "propertyKey": "option3Text",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "option3Text",
+                        "srcWidget": "lblManageUser",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "e7ced03ad0744f77becf5e0f4242a575"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konyenb",
+    "version": "1.0.0"
+}

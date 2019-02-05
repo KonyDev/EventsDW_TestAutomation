@@ -1,0 +1,117 @@
+{
+  "android": {
+    "font_name": "default",
+    "font_size": 27,
+    "isForked": false
+  },
+  "androidwearos": {
+    "font_size": 54,
+    "isForked": false
+  },
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Avenir-Light",
+    "font_size": 94,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "343e48ff",
+  "font_name": "Helvetica",
+  "font_size": 94,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 54,
+    "isForked": false
+  },
+  "iphone": {
+    "font_name": "Helvetica",
+    "font_size": 36,
+    "isForked": false
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "None",
+    "font_size": 94,
+    "isForked": false
+  },
+  "kuid": "s2bfec5454d5406d8f329425621c8227",
+  "spaan": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 83,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spabb": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaip": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaipad": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 88,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 88,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "customCSS": ".sknlblCustomAL343e48{\ntext-align: center !important;\npadding: 0px !important;\nwhite-space: pre-wrap !important;\nword-break: break-all !important;\nfont : normal normal 15.0px Avenir-Light !important;\ncolor: #343e48 !important;\nbackground-color : rgba(0,0,0,0.0) !important;\n}",
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "default",
+    "font_size": 89,
+    "isForked": false
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_name": "System",
+    "font_size": 54,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "None",
+    "font_size": 37,
+    "isForked": false
+  },
+  "winphone8": {
+    "font_name": "None",
+    "font_size": 50,
+    "isForked": false
+  }
+}

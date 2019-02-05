@@ -1,0 +1,313 @@
+{
+    "APPLICATION_THEME": "default",
+    "accountCloudGuid": "d8f8a609-7106-413f-b3e4-c30187ab0fb9",
+    "appaddrkey": "",
+    "appidkey": "Events",
+    "appmenu": {
+        "tablet": {
+            "data": [
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "j70eb31891ce4700a65773275608990d",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c47ea183121649719301f9ebd7692150",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "a71c330bc00c47dd8fca91e7dcc8c8ad",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "h8f7b41cbaa64d8dbf733dc3efbd5c01",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "ee82d5e043e74c958b80798ce471cd50",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "be27dbe1824a44fb89600907bceac8f0",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "b5562b06308a425e8179b557ac8a9133",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "cf7e9ea41e094fdd80be3512670b23ed",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusskin": null,
+        "osVersion": "iOS7",
+        "wType": "Appmenu",
+        "focusSkin": null,
+        "mobile": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c2f2a40cd96c4c56a69dde6b4f4718e9",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "f622f4966a854eafa53a29faa03ccbeb",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c21c03d54cf647f5bc5ebfca4c350db1",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "hb08da7f4f544ccc8baa06fc2488d054",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "skin": null,
+        "osPlatform": ""
+    },
+    "appnamekey": "Events",
+    "apppackagekey": "",
+    "appversionkey": "8.3.3",
+    "build": "debug",
+    "category": "app",
+    "cordovaModified": false,
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "createdVizVersion": "8.1.12",
+    "createdgaversion": "8.1.12",
+    "currentgaversion": "8.3.0",
+    "defaultlocalekey": "en_US",
+    "defaulttheme": "defaultTheme",
+    "desktopstartupformkey": "cf1fac0c5aa548d89c9d119620fa7dcd",
+    "desktopwebbasefontsize": "16",
+    "enableCordova": false,
+    "enableCustomData": false,
+    "enableIdForAutomation": true,
+    "enableResponsive": true,
+    "enableactionbar": false,
+    "ide_appEvents": {
+        "desktop": {
+            "preappinit": "AS_AppEvents_e4e693e27dcc4ab2b5e5c8dc7dc593eb",
+            "appservice": "AS_AppEvents_e38834025b794d44b1debb08918c3e47"
+        },
+        "mobile": {
+            "postappinit": "AS_AppEvents_fa5813076af84c45af9009238c9e57c5",
+            "preappinit": "AS_AppEvents_idf0829f55594ed2be1b3d9985ec14a4",
+            "appservice": "AS_AppEvents_c34a87f4b8e9423a8e2a398f086dac42"
+        }
+    },
+    "isA11yConfigEnabled": false,
+    "isDeveloperMode": "true",
+    "isDpScaleFactor": true,
+    "isMVC": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "kfAppInfo": {
+        "100b97f9-ff02-4243-9b58-75231a6571eb": {
+            "appName": "EventSOS",
+            "baseId": "29ac980a-3c78-4e95-a642-94eee7fb7306",
+            "id": "29ac980a-3c78-4e95-a642-94eee7fb7306",
+            "version": "1.0"
+        },
+        "e8dc8d0b-57b4-4f29-93fa-be0207757778": {
+            "appName": "EventSOS",
+            "id": "36229bca-505e-4b17-bd65-ad1faa85993d",
+            "baseId": "36229bca-505e-4b17-bd65-ad1faa85993d",
+            "version": "1.0"
+        },
+        "9f615994-7983-44fa-bd50-f3bea2d928ff": {
+            "baseId": "fa943e38-48c0-4450-80d9-adf1b45aed86",
+            "id": "fa943e38-48c0-4450-80d9-adf1b45aed86",
+            "version": "1.0"
+        },
+        "531a4331-de39-4a96-b0aa-a9f05dfcacf2": {
+            "appName": "EventSOS",
+            "id": "dcc062a4-112e-4c56-a4d5-c6cf5a1fb06c",
+            "baseId": "dcc062a4-112e-4c56-a4d5-c6cf5a1fb06c",
+            "version": "1.0"
+        },
+        "90508382-0b7b-4825-b4f6-3cf5a2ffed31": {
+            "appName": "EventSOS",
+            "baseId": "8977f94b-e652-4158-ac72-9444b02e0756",
+            "id": "8977f94b-e652-4158-ac72-9444b02e0756",
+            "version": "1.0"
+        },
+        "d4fe4750-d157-422d-9238-fcd0a737bb73": {
+            "baseId": "81ec5886-f0e5-47f5-9ce2-58a939a5d1f6",
+            "id": "81ec5886-f0e5-47f5-9ce2-58a939a5d1f6",
+            "version": "1.0"
+        },
+        "d8f8a609-7106-413f-b3e4-c30187ab0fb9": {
+            "appName": "EventSOS",
+            "baseId": "67800b69-5e81-44c8-bd4c-3acd187ea571",
+            "id": "67800b69-5e81-44c8-bd4c-3acd187ea571",
+            "version": "1.0"
+        },
+        "457a66d6-3f58-4c94-8741-36f7b6b3196b": {
+            "appName": "EventSOS",
+            "id": "9b0752f2-93a4-404b-a784-a0a61789e96b",
+            "baseId": "9b0752f2-93a4-404b-a784-a0a61789e96b",
+            "version": "1.0"
+        }
+    },
+    "konyVizVersion": "8.3.0",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "nativeContainerProperties": {
+        "isEnableJSContainerAndroid": true,
+        "isModified": true,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
+    },
+    "project.type": "js",
+    "projectCloudGuid": "677b018b-d72f-4b01-8718-7291803c5d6f",
+    "project_version": "sprint32",
+    "prototype": {
+        "PublishMode": "public",
+        "resourceId": "b7ba5445-a3c5-4f8e-840c-f0680ecf72e2",
+        "createdBy": "vigneshwaran karunanithi",
+        "shareGuid": "FL83H",
+        "createdOn": "2018-03-30T09:25:51.778Z",
+        "createdById": "0a5edadb-25be-4b72-8fb7-d2f25049e5d0"
+    },
+    "referenceWidth": "375",
+    "startupformkey": "cde1aac14e7a43f2a6901937747f31f0",
+    "statusBarHidden": "false",
+    "vendornamekey": "KonyLabs",
+    "wap_android240_fontsize": "10",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "16",
+    "wap_android640_fontsize": "19",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "15",
+    "wap_bb360_fontsize": "13",
+    "wap_bb400_fontsize": "14",
+    "wap_bb440_fontsize": "15",
+    "wap_bb480_fontsize": "17",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabhdpi_fontsize": "18",
+    "wap_spaandroidtabldpi_fontsize": "14",
+    "wap_spaandroidtabmdpi_fontsize": "16",
+    "wap_spaipad_fontsize": "17",
+    "wap_spawindowstab_fontsize": "17",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "watchos_companionSettings2x29": "",
+    "watchos_companionSettings3x29": "",
+    "watchos_homeScreen40": "",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_shortlooknotificationicon_42": "",
+    "watchos_watchMarketing1x": "",
+    "winmobileguidkey": "",
+    "cloud_account_guid": "457a66d6-3f58-4c94-8741-36f7b6b3196b",
+    "enableProgressiveWeb": true,
+    "enablexfsdw": false,
+    "enableasyncdesktopweb": false,
+    "enableasyncspa": false,
+    "enablexfsspa": false
+}

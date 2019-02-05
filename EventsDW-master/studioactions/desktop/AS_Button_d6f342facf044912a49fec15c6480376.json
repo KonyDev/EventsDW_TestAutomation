@@ -1,0 +1,17 @@
+{
+    "AS_Button_d6f342facf044912a49fec15c6480376": {
+        "id": "AS_Button_d6f342facf044912a49fec15c6480376",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_h67e40f5490a4fd7998f64c4ea12ac98",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.doTabActions(\"btnSessions\");\n//this.onClickProceed();",
+            "callbackType": null
+        }]
+    }
+}

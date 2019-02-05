@@ -1,0 +1,24 @@
+{
+    "AS_Form_g69bea18fd2f4907a531f756a43e6372": {
+        "id": "AS_Form_g69bea18fd2f4907a531f756a43e6372",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreateEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d845c9898428449f914fcb72d79e2e42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ae4ac623ce264484b4b1b35381155709",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.startTime.setTimeListUI();\nthis.view.startTime.height = \"5%\";\nthis.view.EndTime.setTimeListUI();\nthis.view.EndTime.height = \"5%\";\nthis.view.forceLayout();\nthis.view.calEventStartDate.dateEditable = false;\nthis.view.calEventEndDate.dateEditable = false;\npostshow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

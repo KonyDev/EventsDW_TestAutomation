@@ -1,0 +1,88 @@
+{
+    "classname": "sessionTemp",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "a4ec724f2e474b32b92726952e794a2a",
+                    "paramList": [],
+                    "propertyKey": "getData",
+                    "pw": {
+                        "displayName": "getData",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e5b91eac6ee942dcbdc65beeaf92bd0e",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b9b1eb12758e42b1a5d22a326da70bbc",
+                    "paramList": [
+                        {
+                            "name": "session"
+                        }
+                    ],
+                    "propertyKey": "setSessionData",
+                    "pw": {
+                        "displayName": "setSessionData",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e5b91eac6ee942dcbdc65beeaf92bd0e",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b72dd6edb5034a08bc5cfdb9462023c2",
+                    "paramList": [],
+                    "propertyKey": "setDateRange",
+                    "pw": {
+                        "displayName": "setDateRange",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e5b91eac6ee942dcbdc65beeaf92bd0e",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b881469c556143359198ee2cb92cdc15",
+                    "paramList": [
+                        {
+                            "name": "breakpoint"
+                        }
+                    ],
+                    "propertyKey": "changeLayoutAccoringToBp",
+                    "pw": {
+                        "displayName": "changeLayoutAccoringToBp",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e5b91eac6ee942dcbdc65beeaf92bd0e",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konyenb",
+    "version": "1.0.0"
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_ied429e8a15348e6b1fe2eef3a561374": {
+        "id": "AS_FlexContainer_ied429e8a15348e6b1fe2eef3a561374",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_j1e7202ca5a84f41aeb0b83a34cc9dad",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(EVENT_CONSTANS.MODE.USERROLE == EVENT_CONSTANS.USERROLE.CONSUMER){\n\tthis.logout();  \n}else{\n  Events.consumerLogin.logout(this.logout)\n}",
+            "callbackType": null
+        }]
+    }
+}

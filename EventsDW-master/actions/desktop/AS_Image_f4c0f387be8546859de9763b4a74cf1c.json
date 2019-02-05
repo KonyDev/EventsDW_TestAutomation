@@ -1,0 +1,24 @@
+{
+    "AS_Image_f4c0f387be8546859de9763b4a74cf1c": {
+        "id": "AS_Image_f4c0f387be8546859de9763b4a74cf1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmCreateEvent",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d845c9898428449f914fcb72d79e2e42"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

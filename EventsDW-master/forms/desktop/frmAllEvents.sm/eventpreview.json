@@ -1,0 +1,1223 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {},
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "100%"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "100%"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "_skin_": "sd9f0f8ade87418999b229b55db679d4",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexEventPreviewBack": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_i201eedcb3da4b04abb6f6aaed6d1829",
+                "onClick": "AS_FlexContainer_i201eedcb3da4b04abb6f6aaed6d1829"
+            },
+            "__info__": {
+                "kuid": "a12be0c2c34c4fceb2960a05e0b7d427",
+                "srcKUID": "d77914b766714452a249c4be751c83fa",
+                "wType": "FlexContainer"
+            }
+        },
+        "btnRegister": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "efda42781d81495498b352cb678db8a2",
+                "srcKUID": "be733945dd7d486cbfa13dfa3516b855",
+                "wType": "Button"
+            }
+        },
+        "btnRegisterBottom": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ee7eb620cbac46768d33794254ef5840",
+                "srcKUID": "a26986bafa6b4007b554d4f73a2ca3b8",
+                "wType": "Button"
+            },
+            "responsiveData": {
+                "b4": {
+                    "width": {
+                        "type": "string",
+                        "value": "50%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "btnShowMore": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g25796edc64d48c69595dbc48b4dd3d0",
+                "srcKUID": "b4fe631372494766acd8c4a568e0d1a0",
+                "wType": "Button"
+            }
+        },
+        "eventdetail": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a6b870800bf34d8ebf326a9dbd1ec69d",
+                "srcKUID": "jdf12b4d92114b44a615d015723bf99e",
+                "wType": "FlexScrollContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "90%"
+                }
+            },
+            "isVisible": true,
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            },
+            "responsiveData": {
+                "b1": {
+                    "left": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                },
+                "b2": {},
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "100%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                },
+                "b4": {
+                    "isVisible": true,
+                    "left": {
+                        "type": "string",
+                        "value": "100%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "10%"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "81%"
+                }
+            }
+        },
+        "flexDatePrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g790145839dd459d827053cd2130be00",
+                "srcKUID": "e4e82ef1d06841f5a8063ec973524734",
+                "wType": "FlexContainer"
+            }
+        },
+        "flexDateRange": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d290cd85b24241658e1db6dad92905bb",
+                "srcKUID": "e71f102d1ed846b7a94dee68c52b30c6",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b3": {
+                    "height": {
+                        "type": "string",
+                        "value": "100dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100dp"
+                    }
+                },
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "100dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexDateTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gcfaecb178624a48afa9b2ae4d1294ae",
+                "srcKUID": "fe1dabcfef2446cfbe02ab66bdef3a2a",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b3": {
+                    "isVisible": true
+                },
+                "b4": {
+                    "isVisible": true
+                }
+            }
+        },
+        "flexEventBannerRounded": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e5756f67be58475bbdabf987e04b39d7",
+                "srcKUID": "i3411fabb60f4419a33b820815af85c2",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b3": {
+                    "height": {
+                        "type": "string",
+                        "value": "30%"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "16%"
+                    }
+                },
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "25%"
+                    }
+                }
+            },
+            "top": {}
+        },
+        "flexEventDateTimeMapPrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d1a3532b80e04cfbab7400f4e291457b",
+                "srcKUID": "jc0bf36d385e4ca7a886b0a6e3ffacbe",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b3": {
+                    "isVisible": false
+                },
+                "b4": {
+                    "isVisible": false,
+                    "zIndex": 2
+                }
+            },
+            "zIndex": {}
+        },
+        "flexEventDetailsPreview": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c40523df09204e9690590707f40780a1",
+                "srcKUID": "h9911249c54646fc98890bbf4785daad",
+                "wType": "FlexContainer"
+            },
+            "centerX": {},
+            "left": {},
+            "responsiveData": {
+                "b3": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": "0%"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "46.02%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "90%"
+                    }
+                },
+                "b4": {
+                    "left": {
+                        "type": "string",
+                        "value": "5%"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "43%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "90%"
+                    }
+                }
+            },
+            "top": {},
+            "width": {}
+        },
+        "flexEventPreviewHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ha64d45cd7c343ddb0ff64798ce81a69",
+                "srcKUID": "d9b93439a41542509180572697994a1c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flexGoogleMap": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h771a197e83044e2956f90d3ccf7d790",
+                "srcKUID": "e04dc9f8dd8d4e039495a7025231850a",
+                "wType": "FlexContainer"
+            }
+        },
+        "flexGoogleMapTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b336082d69ff441d803e9f9f9f0817ef",
+                "srcKUID": "j8db948eb4e4414b91702fe4869940f7",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "centerX": {},
+            "height": {},
+            "responsiveData": {
+                "b3": {
+                    "centerX": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "height": {
+                        "type": "string",
+                        "value": "300dp"
+                    },
+                    "isVisible": true,
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                },
+                "b4": {
+                    "isVisible": true
+                }
+            },
+            "width": {}
+        },
+        "flexItem0": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b778fdbe864144afb541e61c65d05ae2",
+                "srcKUID": "bf540cea767e48dbad1fde77969e53fa",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "45dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexItem1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g52232b9f8094385b5ea06afd86118d4",
+                "srcKUID": "ff053971bd9d4f43a737582be12b916f",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "45dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexItem2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e709b7b8397f4f6ea74914bc3251b205",
+                "srcKUID": "cb43275d47b441b9bd7fa3df55621d99",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "45dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexItem3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a5fa6850e5e0409ab2acfe147b9f175c",
+                "srcKUID": "ce4088f1a5594a50956ab16d5c33883b",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "45dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexItem4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h039e3067b554034a0af8b6d6768d803",
+                "srcKUID": "f30ca71feb5740ed948e737d8e617735",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "45dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexItem5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe66c33fa8f948c1812d72953a24be96",
+                "srcKUID": "e5069eb5c1774631b25fb3088ecc8496",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "45dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flexLocationPrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f3c3592c939f4c19af198e22239af5db",
+                "srcKUID": "a0e2eec9334441c4b1ace276c98ff125",
+                "wType": "FlexContainer"
+            }
+        },
+        "flexLocationPrevTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b34c5a26ee4e4264974dc517df5ad4cd",
+                "srcKUID": "e0618d8700f446279ea366b43298b105",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b3": {
+                    "isVisible": true
+                },
+                "b4": {
+                    "isVisible": true,
+                    "top": {
+                        "type": "string",
+                        "value": "0dp"
+                    }
+                }
+            },
+            "top": {}
+        },
+        "flexPrevShare": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a51de5189af64455871b6282f347ea1a",
+                "srcKUID": "cf2308ac1b68480695853954a52ccbd0",
+                "wType": "FlexContainer"
+            }
+        },
+        "flexRemainingImageCount": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f8c2ec6848cb4d25bf417bdbf2ccff1c",
+                "srcKUID": "jd66d6c93f024adfb853521143152a4f",
+                "wType": "FlexContainer"
+            }
+        },
+        "flexSessionsandSpeakers": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aaca8b35057b478ea5c5ecf1dd93f786",
+                "srcKUID": "a561e600959a430db023491c6a565c0c",
+                "wType": "FlexContainer"
+            },
+            "left": {},
+            "responsiveData": {
+                "b1": {
+                    "left": {
+                        "type": "string",
+                        "value": "0%"
+                    }
+                },
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": "0%"
+                    }
+                },
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "0%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                },
+                "b4": {
+                    "left": {
+                        "type": "string",
+                        "value": "0%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flxGalleryCompConatiner": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ic3e6ac5d2f245038200f71cb905b302",
+                "srcKUID": "idd80853f8274bce9a0104121efcc7d2",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b3": {
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                },
+                "b4": {
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "imageBanner": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "be8722f5caca49dbb085de280eaf67df",
+                "srcKUID": "b4d95fd404bf4849a9f9770f7f2af16c",
+                "wType": "Image"
+            }
+        },
+        "imgItem0": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe4010997855472183115f0a9cb8ced7",
+                "srcKUID": "adc16054c1104c43b00b79f9942bc970",
+                "wType": "Image"
+            }
+        },
+        "imgItem1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gfaf6a3f614742528a8b36a13a0931fd",
+                "srcKUID": "g88cb19e21ba4c6bb5ba6a8d5e099dbf",
+                "wType": "Image"
+            }
+        },
+        "imgItem2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gb2dad4152a244fba463d9f8061cf081",
+                "srcKUID": "efdcce4bf2874fd2a1054d20e4f5d7be",
+                "wType": "Image"
+            }
+        },
+        "imgItem3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d72a53875d3e4eb5b2c3c1527a35c248",
+                "srcKUID": "i0af5d3122ae447e9529f8233559eba4",
+                "wType": "Image"
+            }
+        },
+        "imgItem4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2b65819c84b457eb72d8873122d6a55",
+                "srcKUID": "e311e359ea394ceda74803cd4e5276fe",
+                "wType": "Image"
+            }
+        },
+        "imgItem5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h21cc64e33f142d3aeaaf1b5ee80e50f",
+                "srcKUID": "h6ee80de040f4a3099eb2f3e0d040fe3",
+                "wType": "Image"
+            }
+        },
+        "imgPrevBack": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b471e73b48ef48c392b1dbf515646e7f",
+                "srcKUID": "c2ea9c86f6824c7f8bb35c60e14e1e3b",
+                "wType": "Image"
+            }
+        },
+        "imgPrevShare": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f496bbf882d044fc8a1dc5ffded9f9c4",
+                "srcKUID": "a5c9e82175e141e7834deb38a341c832",
+                "wType": "Image"
+            }
+        },
+        "lblDatePrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h92166741f374b0abfdfb4b57f4053b9",
+                "srcKUID": "c83280b153e64d11b8f039ac20e0ade2",
+                "wType": "Label"
+            }
+        },
+        "lblDateRange": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f1e3f8533d894381bcd1685ae3d89311",
+                "srcKUID": "ea348d5f2253420690f9e7ff07ce7434",
+                "wType": "Label"
+            }
+        },
+        "lblDateTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e903edef12fa4e2098d2fca5416c4047",
+                "srcKUID": "gbf075382c564a3b9528b9eada249e47",
+                "wType": "Label"
+            },
+            "responsiveData": {
+                "b4": {
+                    "width": {
+                        "type": "string",
+                        "value": "40%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "lblDateValuePrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d7c4063cbafc4e9eb5c30dce8e77c209",
+                "srcKUID": "cfd7f2994adf4bd38a22129c9b5675d0",
+                "wType": "Label"
+            }
+        },
+        "lblDateValueTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jdb103be714e4ee8a9dade60851fddc2",
+                "srcKUID": "i6df27bd43244218991b3ee23cbc4b0c",
+                "wType": "Label"
+            },
+            "left": {},
+            "responsiveData": {
+                "b4": {
+                    "left": {
+                        "type": "string",
+                        "value": "15%"
+                    }
+                }
+            }
+        },
+        "lblDesc": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d0c13540db504b3fb7f7310641c8be9a",
+                "srcKUID": "h504833da0df4965bffd7543c369600a",
+                "wType": "Label"
+            },
+            "responsiveData": {
+                "b3": {
+                    "width": {
+                        "type": "string",
+                        "value": "95%"
+                    }
+                },
+                "b4": {
+                    "text": "Join Kony experts on July 18, 2018, as we walk you through developing a rich interactive solution using Kony App Platform. We recently released an Events application as a sample which has Mobile and Desktop web capabilities. It can be used by any organization to announce events to its customers, members, and/or employees.The Events application leverages a range of features offered by Kony App Platform. We will cover the different aspects of design and give you a detail of the features utilized to develop the application. Some of the key features we’ll cover include:  Components Different types of backend services Reporting Integration with external systems like Linkedin.com Push notifications",
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "lblEventCategoryPrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "be8a349652804748bb59199c57fed24d",
+                "srcKUID": "i8cfc2c8e7204d689c19d59943c3d746",
+                "wType": "Label"
+            },
+            "responsiveData": {
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "12.01%"
+                    }
+                },
+                "b4": {
+                    "left": {
+                        "type": "string",
+                        "value": "17.009999999999998%"
+                    }
+                }
+            }
+        },
+        "lblEventTitlePrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e0d18af1933d401687238b74cd9f0a60",
+                "srcKUID": "c6b1102f0d7f40f2a0ae51f37900ba5a",
+                "wType": "Label"
+            },
+            "centerX": {},
+            "responsiveData": {
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "12%"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "30.57%"
+                    }
+                },
+                "b4": {
+                    "centerX": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": "16.00%"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "28.50%"
+                    }
+                }
+            }
+        },
+        "lblGalleryTitle": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a4d21f085d454e4fb9a581cdd07ffef1",
+                "srcKUID": "afd337b180aa4113b5532760e6c5bb8b",
+                "wType": "Label"
+            }
+        },
+        "lblLocationPrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d1828777480c42aeaf50c1f2d4b1c7fe",
+                "srcKUID": "f379e79151c54e6298a3cf7f2734bee8",
+                "wType": "Label"
+            }
+        },
+        "lblLocationPrevTbM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b853794d7ed74e0ca64ab5401add3c6e",
+                "srcKUID": "bf4fcfafc9234fe38eba76ce7703e90b",
+                "wType": "Label"
+            }
+        },
+        "lblLocationValuePrev": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c8fe0c80128e4a89b2f74a6a6d6eabbd",
+                "srcKUID": "d36f7c9ab14847ca81d9bab164339df9",
+                "wType": "Label"
+            }
+        },
+        "lblLocationValuePrevTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aa8ce90e1f52443b9fdb7dcc9f7afc0d",
+                "srcKUID": "b3b3525cb1524c2b89977b79d4a4e6aa",
+                "wType": "Label"
+            }
+        },
+        "lblMonthYear": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jfe9c44c378149dbaca8d14cb72622f9",
+                "srcKUID": "dd9aff9fd4284572b54232bc5d855b71",
+                "wType": "Label"
+            }
+        },
+        "lblRemaingImageCount": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c31480614c1445969c5a158b5363562a",
+                "srcKUID": "b946d28558924b94897ad6edea707498",
+                "wType": "Label"
+            }
+        },
+        "lblSessionTitleDet": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h4cffaec12144223843940e3b6f54573",
+                "srcKUID": "fb34c584cd0441a9b1cc3576050f6516",
+                "wType": "Label"
+            },
+            "left": {},
+            "responsiveData": {
+                "b4": {
+                    "left": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "5dp"
+                    }
+                }
+            },
+            "top": {}
+        },
+        "lblUnderLineTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a0e35c7876b64ed38f5c1eb31890804c",
+                "srcKUID": "gc835ea0fc0842939aa7e32ed67adfae",
+                "wType": "Label"
+            }
+        },
+        "lnlUnderLinePre": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ec3c5a91c9ae4107b528855a2c7f935e",
+                "srcKUID": "if161612278e4594b459af0c54843d4e",
+                "wType": "Label"
+            }
+        },
+        "mapGoogleMap": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ge8d09965b3f468a9e311095f221978f",
+                "srcKUID": "g84e11506c8a4f2ca2037847a490ea32",
+                "wType": "Map"
+            }
+        },
+        "mapGoogleMapTM": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j0f2c13ae5db495f86e3fae5101f6933",
+                "srcKUID": "ca555b568f094dac9f1ab98a5794f3b0",
+                "wType": "Map"
+            }
+        },
+        "rchDateRange": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g7639ea7e76c4ecbaba80f99dc61b8fa",
+                "srcKUID": "b542773c1f3a412484ae86f945e95a59",
+                "wType": "RichText"
+            }
+        },
+        "sessiondetails": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ecd1c4daed4941d9991ce4ec9d5ee8b6",
+                "srcKUID": "h115373d232b44d7939be92a8cf70282",
+                "wType": "UserWidgetInstance"
+            }
+        },
+        "sessiondetails.flexDateandStrip": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cf830fd76509436fbb28ea159706482d",
+                "srcKUID": "b7b479a6252b47fbbfff53ea8d9d6e09",
+                "wType": "FlexContainer"
+            }
+        },
+        "sessiondetails.lblDateMonth": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e33efd7293bd41babb14720c57a71234",
+                "srcKUID": "a1f8855a134b4199a15275bdd69e3509",
+                "wType": "Label"
+            },
+            "responsiveData": {
+                "b4": {
+                    "width": {
+                        "type": "string",
+                        "value": "80%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "sessiondetails.lblVertStrip": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f1df2a5fa7bc4a58b3f38a6d8f0707ab",
+                "srcKUID": "jd8e8a542e764f61bebe2323e4b9af2e",
+                "wType": "Label"
+            }
+        },
+        "sessiondetails.segSessionandSpeaker": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a5a3c3aac7ab4822a7664cf9d37991d4",
+                "srcKUID": "cb122dc91478495dbc62acc85b5a5067",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    [
+                        {
+                            "lblEventAddress": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "Convention Center, Hyderabad"
+                            },
+                            "lblEventDateTime": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "Monday, 10 AM-5 PM"
+                            },
+                            "lblHorizontalLine": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": ""
+                            }
+                        },
+                        [
+                            {
+                                "Label0gb84b6f0bdf643": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "imgSpeaker": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblDesignation": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Cheif Creative Officer, Google"
+                                },
+                                "lblLinkedIn": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "lblSpeakerName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Speaker Name"
+                                }
+                            },
+                            {
+                                "Label0gb84b6f0bdf643": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "imgSpeaker": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblDesignation": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Cheif Creative Officer, Google"
+                                },
+                                "lblLinkedIn": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "lblSpeakerName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Speaker Name"
+                                }
+                            },
+                            {
+                                "Label0gb84b6f0bdf643": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "imgSpeaker": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblDesignation": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Cheif Creative Officer, Google"
+                                },
+                                "lblLinkedIn": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "lblSpeakerName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Speaker Name"
+                                }
+                            }
+                        ]
+                    ],
+                    [
+                        {
+                            "lblEventAddress": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "Convention Center, Hyderabad"
+                            },
+                            "lblEventDateTime": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "Monday, 10 AM-5 PM"
+                            },
+                            "lblHorizontalLine": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": ""
+                            }
+                        },
+                        [
+                            {
+                                "Label0gb84b6f0bdf643": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "imgSpeaker": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblDesignation": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Cheif Creative Officer, Google"
+                                },
+                                "lblLinkedIn": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "lblSpeakerName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Speaker Name"
+                                }
+                            },
+                            {
+                                "Label0gb84b6f0bdf643": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "imgSpeaker": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblDesignation": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Cheif Creative Officer, Google"
+                                },
+                                "lblLinkedIn": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "lblSpeakerName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Speaker Name"
+                                }
+                            },
+                            {
+                                "Label0gb84b6f0bdf643": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "imgSpeaker": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblDesignation": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Cheif Creative Officer, Google"
+                                },
+                                "lblLinkedIn": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Label"
+                                },
+                                "lblSpeakerName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Speaker Name"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        }
+    },
+    "id": "eventpreview",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "a6b870800bf34d8ebf326a9dbd1ec69d",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRoot",
+    "pf": "frmAllEvents",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "jdf12b4d92114b44a615d015723bf99e",
+    "wType": "UserWidgetInstance"
+}

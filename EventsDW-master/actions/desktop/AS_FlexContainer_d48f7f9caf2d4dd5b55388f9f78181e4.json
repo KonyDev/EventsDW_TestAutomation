@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_d48f7f9caf2d4dd5b55388f9f78181e4": {
+        "id": "AS_FlexContainer_d48f7f9caf2d4dd5b55388f9f78181e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAllEvents",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cf1fac0c5aa548d89c9d119620fa7dcd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b43f805e806e41b29072ec122296bf8d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxProfileMain.isVisible = false;\nglbIsLoggedIn = false;\nvar ntf = new kony.mvc.Navigation(\"frmLogin\");\nntf.navigate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
